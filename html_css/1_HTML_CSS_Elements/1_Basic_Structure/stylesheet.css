@@ -1,0 +1,17 @@
+/* CSS style sheet, is linked to the html page you want to style */
+/* The CSS modifys the HTML */
+
+/* the most basic 'selectors' for CSS use html elements names to assign styles to those elements */
+/* here "html body" HTML DOM element name, is used to indicate that the main html body will be modified by the styles listed below it */
+html body {
+    background-color: black;
+}
+
+/* text - colour and font */
+
+
+
+/*  lists */
+
+
+/*  divs */
