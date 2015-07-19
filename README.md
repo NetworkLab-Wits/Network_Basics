@@ -1,2 +1,3 @@
 # Network_Basics
-Leaning Module one for networked media (Professional Practice in Interactive Digital Media).
+Leaning module one for networked media (Professional Practice in Interactive Digital Media).
+Led by Tegan Bristow
