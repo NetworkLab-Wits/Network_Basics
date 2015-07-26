@@ -10,7 +10,7 @@ function myString()
 {
  var demo = document.getElementById( "demo" ) ;
  // declaring 3 string variables
- var s1 = "frogs " , s2 = "jumping like " , s3 = "dogs" ;
+ var s1 = "Frogs " , s2 = "jumping like " , s3 = "dogs" ;
  // also a picture file name
  var picName = "myPic", picFile = "frog-jumping.gif" ;
  // these are all the javascript "string" functions

@@ -1,0 +1,9 @@
+body, html {
+    background-color: white;
+}
+
+#googleMap {
+    height:500px;
+    width:800px;
+}
+ 

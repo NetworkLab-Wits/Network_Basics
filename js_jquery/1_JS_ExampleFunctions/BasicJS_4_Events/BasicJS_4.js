@@ -1,6 +1,6 @@
 
 // functions that output the reponse for mouse clicks // not either "panel" or "this"
-function clickResponse() { panel.innerHTML += "Click detected<hr>" ; }
+function clickResponse() { this.innerHTML += "Click detected<br>" ;}
 function doubleclickResponse() { this.innerHTML += "Double-click detected<br>" ; }
 function mousedownResponse() { this.innerHTML += "Mouse button down<br>" ; }
 function mouseupResponse() { this.innerHTML += "Mouse button up<br>" ; }
@@ -22,7 +22,7 @@ function init()
   var panel = document.getElementById( "panel" ) ;
   //mouse function calls
   panel.innerHTML = "Click Here &gt;<br>" ;
-  panel.onclick = clickResponse ;
+  panel.onclick = clickResponse;
   panel.ondblclick = doubleclickResponse ;
   panel.onmouseup = mouseupResponse ;
   panel.onmousedown = mousedownResponse ;

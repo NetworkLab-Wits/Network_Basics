@@ -19,13 +19,11 @@ body, html {
 /*These are the rows that will divide the the painting into three horizontal sections*/
 
 #toprow {
-	width: 400px;
-	height: 290px;
+	
 }
 
 #middlerow {
-	width:400px;
-	height:10px;
+	
 }
 
 #bottomrow {
@@ -35,28 +33,24 @@ body, html {
 /*These are the two columns within the rows that help hold an additional subset of boxes*/
 
 #topleftcolumn {
- 	width:140px;
- 	height: 290px;
+ 	
 }
 
 #bottomrightcolumn{
-    width:20px;
-    height:100px;
+    
 }
 
 
 /*These are the boxes that give the painting its shape, including the black dividers*/
 
 #bigbox {
-    height: 290px;
-    width:  290px;
+    
 }
 
 /* Medium box as a class */
 
 .mediumbox {
-	height:140px;
-	width:100px;
+	
 }
 
 /* Medium box as a ID */
@@ -74,23 +68,19 @@ body, html {
 }
 
 .tinybox {
-	width:20px;
-	height: 45px;
+	
 }
 
 #divider1 {
-	width:10px;
-	height:290px;
+	
 }
 
 #divider2 {
-	width:100px;
-	height:10px;
+	
 }
 
 #divider3 {
- 	width:20px;
- 	height:10px;
+ 	
 }
 
 #divider4 {
@@ -104,23 +94,23 @@ body, html {
 /*color classes. These are the CSS classes that will color in the blocks*/
 
 .red {
- background-color: red;
+
 }
 
 .blue {
-  background-color: blue;   
+  
 }
 
 .yellow {
-   background-color: yellow;
+   
 }
 
 .black {
-     background-color: black;
+     
 }
 
 /*position class. This class helps make sure the elements line up next to each other*/
 
 .right {
-	float: right; 
+	
 }

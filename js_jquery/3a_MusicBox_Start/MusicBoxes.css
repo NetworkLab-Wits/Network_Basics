@@ -1,4 +1,19 @@
+html body {
+    background-color: black;
+}
+#instrument {
+    width:800px;
+    height: 200px;
+    margin:auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 50;
+}
 
+.box{
+   width: 100px;
+   height: 100px;
+}
 
 
 #a {
