@@ -1,0 +1,10 @@
+body, html {
+    background-color: #f6f6f6;
+    padding: 10; margin: 5;
+    font-family: Verdana;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 20;
+}
